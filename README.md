@@ -7,7 +7,7 @@ SFML Pacman, klasik Pacman oyunundan esinlenerek C++ programlama dili ve SFML (S
 ## 🎓 Proje Bilgileri
  
 - **Dönem:** 2019–2020 Akademik Yılı  
-- **Geliştirici:** Başak AHLAT & GB
+- **Geliştirici:** Başak AHLAT & Gülfidan Baltacı
 - **Geliştirme Seviyesi:** 1. sınıf
 
 ---
